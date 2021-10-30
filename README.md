@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaifanisalla
-- 👀 I’m interested in LARAVEL ,VUE,
-- 🌱 I’m currently learning PHP Swole , MYSQL Cluster , Hadoop 
+- 👀 I’m interested in LARAVEL ,VUE, Angular,
+- 🌱 I’m currently learning PHP Swole , MYSQL Cluster 
 - 📫 How to reach me ...
 @thaifanisalla ,t@thaifani
 
